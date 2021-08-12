@@ -1,0 +1,78 @@
+#real raddeg
+raddeg=3.14159265/180
+#real cminch
+cminch=2.54
+
+; General Hall-C parameter files
+#include "PARAM19/GEN/genflags.param"
+#include "PARAM19/GEN/gdebug.param"
+#include "PARAM19/GEN/gtarget.param"
+#include "PARAM19/GEN/gbeam.param"
+#include "PARAM19/GEN/gscalers_spring19.param"
+
+; General HMS parameter files
+; Note: hmsflags.param includes spectrometer offsets and options.
+#include "PARAM19/HMS/GEN/hcana.param"
+#include "PARAM19/HMS/GEN/hdebug.param"
+#include "PARAM19/HMS/GEN/hmsflags.param"
+#include "PARAM19/HMS/GEN/htracking.param"
+#include "PARAM19/HMS/GEN/h_reftime_cut_runperiod2.param"
+
+; HMS default geometry parameter files 
+#include "PARAM19/HMS/CER/hcer_geom.param"
+#include "PARAM19/HMS/DC/hdc_geom.param"
+#include "PARAM19/HMS/HODO/hhodo_geom.param"
+#include "PARAM19/HMS/AERO/haero_geom.param"
+#include "PARAM19/HMS/CAL/hcal_geom.param"
+
+; HMS default cut parameter files
+#include "PARAM19/HMS/CER/hcer_cuts_runperiod2.param"
+#include "PARAM19/HMS/DC/hdc_cuts_runperiod2.param"
+#include "PARAM19/HMS/HODO/hhodo_cuts_runperiod2.param"
+#include "PARAM19/HMS/AERO/haero_cuts.param"
+#include "PARAM19/HMS/CAL/hcal_cuts_runperiod2.param"
+
+; HMS default calibration parameter files
+#include "PARAM19/HMS/CER/hcer_calib.param"
+#include "PARAM19/HMS/DC/hdc_calib.param"
+#include "PARAM19/HMS/DC/hdc_tzero_per_wire.param"
+#include "PARAM19/HMS/HODO/hhodo_calib.param"
+#include "PARAM19/HMS/HODO/hhodo_TWcalib.param"
+#include "PARAM19/HMS/HODO/hhodo_Vpcalib.param"
+#include "PARAM19/HMS/AERO/haero_calib.param"
+#include "PARAM19/HMS/CAL/hcal_calib.param"
+
+; General SHMS parameter files
+; Note: shmsflags.param includes spectrometer offsets and options.
+#include "PARAM19/SHMS/GEN/pcana.param"
+#include "PARAM19/SHMS/GEN/pdebug.param"
+#include "PARAM19/SHMS/GEN/shmsflags_spring19.param"
+#include "PARAM19/SHMS/GEN/ptracking.param"
+#include "PARAM19/SHMS/GEN/p_reftime_cut_runperiod2.param"
+
+; SHMS default geometry parameter files
+#include "PARAM19/SHMS/NGCER/pngcer_geom.param"
+#include "PARAM19/SHMS/DC/pdc_geom.param"
+#include "PARAM19/SHMS/HODO/phodo_geom.param"
+#include "PARAM19/SHMS/HGCER/phgcer_geom.param"
+#include "PARAM19/SHMS/AERO/paero_geom.param"
+#include "PARAM19/SHMS/CAL/pcal_geom.param"
+
+; SHMS default cut parameter files
+#include "PARAM19/SHMS/NGCER/pngcer_cuts.param"
+#include "PARAM19/SHMS/DC/pdc_cuts_runperiod2.param"
+#include "PARAM19/SHMS/HODO/phodo_cuts_runperiod2.param"
+#include "PARAM19/SHMS/HGCER/phgcer_cuts_runperiod2.param"
+#include "PARAM19/SHMS/AERO/paero_cuts_runperiod2.param"
+#include "PARAM19/SHMS/CAL/pcal_cuts_runperiod2.param"
+
+; SHMS default calibration parameter files
+#include "PARAM19/SHMS/NGCER/pngcer_calib.param"
+#include "PARAM19/SHMS/DC/pdc_calib.param"
+#include "PARAM19/SHMS/DC/pdc_tzero_per_wire.param"
+#include "PARAM19/SHMS/HODO/phodo_calib.param"
+#include "PARAM19/SHMS/HODO/phodo_TWcalib.param"
+#include "PARAM19/SHMS/HODO/phodo_Vpcalib_5369.param"
+#include "PARAM19/SHMS/HGCER/phgcer_calib.param"
+#include "PARAM19/SHMS/AERO/paero_calib.param"
+#include "PARAM19/SHMS/CAL/pcal_calib.param"

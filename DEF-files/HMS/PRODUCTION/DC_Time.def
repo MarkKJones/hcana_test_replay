@@ -1,0 +1,13 @@
+TH1F hdc1u1_drifttime 'HMS DC 1U1 Drift Time; Drift time (ns); Number of Entries ' H.dc.1u1.time 300 -50 250
+TH1F hdc1u2_drifttime 'HMS DC 1U2 Drift Time; Drift time (ns); Number of Entries ' H.dc.1u2.time 300 -50 250
+TH1F hdc1x1_drifttime 'HMS DC 1X1 Drift Time; Drift time (ns); Number of Entries ' H.dc.1x1.time 300 -50 250
+TH1F hdc1x2_drifttime 'HMS DC 1X2 Drift Time; Drift time (ns); Number of Entries ' H.dc.1x2.time 300 -50 250
+TH1F hdc1v1_drifttime 'HMS DC 1V1 Drift Time; Drift time (ns); Number of Entries ' H.dc.1v1.time 300 -50 250
+TH1F hdc1v2_drifttime 'HMS DC 1V2 Drift Time; Drift time (ns); Number of Entries ' H.dc.1v2.time 300 -50 250
+
+TH1F hdc2v2_drifttime 'HMS DC 2V2 Drift Time; Drift time (ns); Number of Entries ' H.dc.2v2.time 300 -50 250
+TH1F hdc2v1_drifttime 'HMS DC 2V1 Drift Time; Drift time (ns); Number of Entries ' H.dc.2v1.time 300 -50 250
+TH1F hdc2x2_drifttime 'HMS DC 2X2 Drift Time; Drift time (ns); Number of Entries ' H.dc.2x2.time 300 -50 250
+TH1F hdc2x1_drifttime 'HMS DC 2X1 Drift Time; Drift time (ns); Number of Entries ' H.dc.2x1.time 300 -50 250
+TH1F hdc2u2_drifttime 'HMS DC 2U2 Drift Time; Drift time (ns); Number of Entries ' H.dc.2u2.time 300 -50 250
+TH1F hdc2u1_drifttime 'HMS DC 2U1 Drift Time; Drift time (ns); Number of Entries ' H.dc.2u1.time 300 -50 250

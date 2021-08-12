@@ -1,0 +1,13 @@
+TH1F hdc1u1_driftrawtime 'HMS DC 1U1 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.1u1.rawtdc 1000 -15000 -10000
+TH1F hdc1u2_driftrawtime 'HMS DC 1U2 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.1u2.rawtdc 1000 -15000 -10000
+TH1F hdc1x1_driftrawtime 'HMS DC 1X1 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.1x1.rawtdc 1000 -15000 -10000
+TH1F hdc1x2_driftrawtime 'HMS DC 1X2 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.1x2.rawtdc 1000 -15000 -10000
+TH1F hdc1v1_driftrawtime 'HMS DC 1V1 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.1v1.rawtdc 1000 -15000 -10000
+TH1F hdc1v2_driftrawtime 'HMS DC 1V2 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.1v2.rawtdc 1000 -15000 -10000
+
+TH1F hdc2v2_driftrawtime 'HMS DC 2V2 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.2v2.rawtdc 1000 -15000 -10000
+TH1F hdc2v1_driftrawtime 'HMS DC 2V1 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.2v1.rawtdc 1000 -15000 -10000
+TH1F hdc2x2_driftrawtime 'HMS DC 2X2 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.2x2.rawtdc 1000 -15000 -10000
+TH1F hdc2x1_driftrawtime 'HMS DC 2X1 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.2x1.rawtdc 1000 -15000 -10000
+TH1F hdc2u2_driftrawtime 'HMS DC 2U2 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.2u2.rawtdc 1000 -15000 -10000
+TH1F hdc2u1_driftrawtime 'HMS DC 2U1 Drift Rawtime; Drift Rawtime (chan); Number of Entries ' H.dc.2u1.rawtdc 1000 -15000 -10000

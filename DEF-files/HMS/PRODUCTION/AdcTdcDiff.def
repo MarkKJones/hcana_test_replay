@@ -1,0 +1,20 @@
+# HMS CER GOxOD Pulse Profile
+TH2F hcer_good_AdcTdcDiffTime_vs_pmt 'HMS Cherenkov Good AdcTdcDiffTime vs. PMT Number; PMT Number; AdcTdcDiffTime ' [I+1] H.cer.goodAdcTdcDiffTime 2 0.5 2.5 200 0 200 H.cer.goodAdcPed>0.0
+# HMS CAL Good AdcTdcDiffTimes 
+TH2F hcal_hA_good_AdcTdcDiffTime_vs_pmt_pos 'HMS hA+ Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.cal.1pr.goodPosAdcTdcDiffTime 13 0.5 13.5 400 -200 200 H.cal.1pr.goodPosAdcPed>0.0
+TH2F hcal_hA_good_AdcTdcDiffTime_vs_pmt_neg 'HMS hA- Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.cal.1pr.goodNegAdcTdcDiffTime 13 0.5 13.5 400 -200 200 H.cal.1pr.goodNegAdcPed>0.0
+TH2F hcal_hB_good_AdcTdcDiffTime_vs_pmt_pos 'HMS hB+ Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.cal.2ta.goodPosAdcTdcDiffTime 13 0.5 13.5 400 -200 200 H.cal.2ta.goodPosAdcPed>0.0
+TH2F hcal_hB_good_AdcTdcDiffTime_vs_pmt_neg 'HMS hB- Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.cal.2ta.goodNegAdcTdcDiffTime 13 0.5 13.5 400 -200 200 H.cal.2ta.goodNegAdcPed>0.0
+TH2F hcal_hC_good_AdcTdcDiffTime_vs_pmt_pos 'HMS hC+ Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.cal.3ta.goodPosAdcTdcDiffTime 13 0.5 13.5 400 -200 200 H.cal.3ta.goodPosAdcPed>0.0
+TH2F hcal_hD_good_AdcTdcDiffTime_vs_pmt_pos 'HMS hD+ Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.cal.4ta.goodPosAdcTdcDiffTime 13 0.5 13.5 400 -200 200 H.cal.4ta.goodPosAdcPed>0.0
+# HMS HODO Good PULSE PEDESTAL
+#------------------------------
+
+TH2F hhodo_1x_good_AdcTdcDiffTime_vs_pmt_pos 'HMS 1X+ Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.hod.1x.GoodPosAdcTdcDiffTime 16 0.5 16.5 400 -200 200 H.hod.1x.GoodPosAdcPed>0.0
+TH2F hhodo_1y_good_AdcTdcDiffTime_vs_pmt_pos 'HMS 1Y+ Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.hod.1y.GoodPosAdcTdcDiffTime 10 0.5 10.5 400 -200 200 H.hod.1y.GoodPosAdcPed>0.0
+TH2F hhodo_2x_good_AdcTdcDiffTime_vs_pmt_pos 'HMS 2X+ Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.hod.2x.GoodPosAdcTdcDiffTime 16 0.5 16.5 400 -200 200 H.hod.2x.GoodPosAdcPed>0.0
+TH2F hhodo_2y_good_AdcTdcDiffTime_vs_pmt_pos 'HMS 2Y+ Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.hod.2y.GoodPosAdcTdcDiffTime 10 0.5 10.5 400 -200 200 H.hod.2y.GoodPosAdcPed>0.0
+TH2F hhodo_1x_good_AdcTdcDiffTime_vs_pmt_neg 'HMS 1X- Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.hod.1x.GoodNegAdcTdcDiffTime 16 0.5 16.5 400 -200 200 H.hod.1x.GoodNegAdcPed>0.0
+TH2F hhodo_1y_good_AdcTdcDiffTime_vs_pmt_neg 'HMS 1Y- Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.hod.1y.GoodNegAdcTdcDiffTime 10 0.5 10.5 400 -200 200 H.hod.1y.GoodNegAdcPed>0.0
+TH2F hhodo_2x_good_AdcTdcDiffTime_vs_pmt_neg 'HMS 2X- Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.hod.2x.GoodNegAdcTdcDiffTime 16 0.5 16.5 400 -200 200 H.hod.2x.GoodNegAdcPed>0.0
+TH2F hhodo_2y_good_AdcTdcDiffTime_vs_pmt_neg 'HMS 2Y- Good AdcTdcDiffTime vs. PMT Number; PMT Number; Good AdcTdcDiffTime ' [I+1] H.hod.2y.GoodNegAdcTdcDiffTime 10 0.5 10.5 400 -200 200 H.hod.2y.GoodNegAdcPed>0.0

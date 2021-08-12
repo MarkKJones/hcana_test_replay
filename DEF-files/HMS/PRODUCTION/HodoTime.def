@@ -1,0 +1,8 @@
+TH2F hhodo_1x_good_TdcTimeUnCorr_vs_pmt_pos 'HMS 1X+ Good TdcTimeUnCorr vs. PMT Number; PMT Number; Good TdcTimeUnCorr ' [I+1] H.hod.1x.GoodPosTdcTimeUnCorr 16 0.5 16.5 400 -200 200 H.hod.1x.GoodPosAdcPed>0.0
+TH2F hhodo_1y_good_TdcTimeUnCorr_vs_pmt_pos 'HMS 1Y+ Good TdcTimeUnCorr vs. PMT Number; PMT Number; Good TdcTimeUnCorr ' [I+1] H.hod.1y.GoodPosTdcTimeUnCorr 10 0.5 10.5 400 -200 200 H.hod.1y.GoodPosAdcPed>0.0
+TH2F hhodo_2x_good_TdcTimeUnCorr_vs_pmt_pos 'HMS 2X+ Good TdcTimeUnCorr vs. PMT Number; PMT Number; Good TdcTimeUnCorr ' [I+1] H.hod.2x.GoodPosTdcTimeUnCorr 16 0.5 16.5 400 -200 200 H.hod.2x.GoodPosAdcPed>0.0
+TH2F hhodo_2y_good_TdcTimeUnCorr_vs_pmt_pos 'HMS 2Y+ Good TdcTimeUnCorr vs. PMT Number; PMT Number; Good TdcTimeUnCorr ' [I+1] H.hod.2y.GoodPosTdcTimeUnCorr 10 0.5 10.5 400 -200 200 H.hod.2y.GoodPosAdcPed>0.0
+TH2F hhodo_1x_good_TdcTimeUnCorr_vs_pmt_neg 'HMS 1X- Good TdcTimeUnCorr vs. PMT Number; PMT Number; Good TdcTimeUnCorr ' [I+1] H.hod.1x.GoodNegTdcTimeUnCorr 16 0.5 16.5 400 -200 200 H.hod.1x.GoodNegAdcPed>0.0
+TH2F hhodo_1y_good_TdcTimeUnCorr_vs_pmt_neg 'HMS 1Y- Good TdcTimeUnCorr vs. PMT Number; PMT Number; Good TdcTimeUnCorr ' [I+1] H.hod.1y.GoodNegTdcTimeUnCorr 10 0.5 10.5 400 -200 200 H.hod.1y.GoodNegAdcPed>0.0
+TH2F hhodo_2x_good_TdcTimeUnCorr_vs_pmt_neg 'HMS 2X- Good TdcTimeUnCorr vs. PMT Number; PMT Number; Good TdcTimeUnCorr ' [I+1] H.hod.2x.GoodNegTdcTimeUnCorr 16 0.5 16.5 400 -200 200 H.hod.2x.GoodNegAdcPed>0.0
+TH2F hhodo_2y_good_TdcTimeUnCorr_vs_pmt_neg 'HMS 2Y- Good TdcTimeUnCorr vs. PMT Number; PMT Number; Good TdcTimeUnCorr ' [I+1] H.hod.2y.GoodNegTdcTimeUnCorr 10 0.5 10.5 400 -200 200 H.hod.2y.GoodNegAdcPed>0.0

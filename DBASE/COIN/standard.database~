@@ -1,0 +1,61 @@
+ 0-4689
+g_ctp_parm_filename       = "DBASE/COIN/general_spring18.param"
+; Fall 18 10.6 GeV use trig5
+4689-5333
+g_ctp_parm_filename       = "DBASE/COIN/general_BeforePolFlip.param"
+; Fall 18 10.6 GeV use trig6
+5334-5366
+g_ctp_parm_filename       = "DBASE/COIN/general_BeforePolFlip_singles.param"
+5367-6481
+g_ctp_parm_filename       = "DBASE/COIN/general_BeforePolFlip.param"
+6482-6485
+g_ctp_parm_filename       = "DBASE/COIN/general_BeforePolFlip_singles.param"
+6486-6575
+g_ctp_parm_filename       = "DBASE/COIN/general_BeforePolFlip.param"
+; Polarity FLip of Reference time signals all ROCs except ROC6 (SHMS DC) before run 6576
+6576-6594
+g_ctp_parm_filename       = "DBASE/COIN/general_AfterPolFlip.param"
+; kaon LT 3.8 and 4.9 GeV with trig5 used
+6595-7045
+g_ctp_parm_filename       = "DBASE/COIN/general_AfterPolFlip_trig5.param"
+; Jpsi trig6 used
+7046-7839
+g_ctp_parm_filename       = "DBASE/COIN/general_AfterPolFlip.param"
+; KaonLT 6.2 and 8.2 GeV with trig5 used
+7840-8356
+g_ctp_parm_filename       = "DBASE/COIN/general_AfterPolFlip_trig5.param"
+0-99999
+g_ctp_kinematics_filename = "DBASE/COIN/standard.kinematics"
+0-4800
+g_ctp_map_filename = "MAPS/COIN/DETEC/coin_comm18.map"
+4801-5417
+g_ctp_map_filename = "MAPS/COIN/DETEC/coin.map"
+5418-7045
+g_ctp_map_filename = "MAPS/COIN/DETEC/coin_fall18.map"
+7046-99999
+g_ctp_map_filename = "MAPS/COIN/DETEC/coin_spring19.map"
+0-4689
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin.param"
+; Fall 18 10.6 GeV use trig5
+4689-5333
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin_fall18_hRF_BeforePolFlip.param"
+5334-5366
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin_fall18_hRF_BeforePolFlip_singles.param"
+5367-6481
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin_fall18_hRF_BeforePolFlip.param"
+6482-6485
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin_fall18_hRF_BeforePolFlip_singles.param"
+5686-6575
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin_fall18_hRF_BeforePolFlip.param"
+6009-6575
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin_fall18_BeforePolFlip.param"
+; Polarity FLip of Reference time signals all ROCs except ROC6 (SHMS DC) before run 6576
+6576-6594
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin_fall18_AfterPolFlip.param"
+; kaon LT 3.8 and 4.9 GeV with trig5 used
+6595-7045
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin_fall18_AfterPolFlip_trig5.param"
+7046-7839
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin_spring19.param"
+7040-8356
+g_ctp_trigdet_filename = "PARAM/TRIG/tcoin_spring19.param"

@@ -1,0 +1,63 @@
+block g.evnum
+block P.extcor.xsieve
+block P.extcor.ysieve
+block P.rb.raster.fr_xbpm_tar
+block P.rb.raster.fr_ybpm_tar
+block P.rb.raster.fr_xa
+block P.rb.raster.fr_ya
+block P.gtr.*
+block P.kin.*
+#block P.dc.*
+block P.dc.x_fp
+block P.dc.xp_fp
+block P.dc.y_fp
+block P.dc.yp_fp
+block P.dc.ntrack
+block P.*cer.npeSum
+block P.cal.etotnorm
+block P.cal.etracknorm
+block P.react.x
+block P.react.y
+block P.react.z
+block P.hod.goodscinhit
+block P.hod.beta*
+block P.hod.start*
+#block P.hod.*
+block T*
+block P.cal.eprtrack
+block P.cal.eprtracknorm
+block P.cal.etot
+block P.cal.etottracknorm
+block P.cal.etracknorm
+block g.evtyp
+
+begin epics
+IPM3H07A.XPOS   
+IPM3H07A.XRAW   
+IPM3H07A.XSOF   
+IPM3H07A.YIFG   
+IPM3H07A.YPOF   
+IPM3H07A.YPOS   
+IPM3H07A.YRAW   
+IPM3H07A.YSOF   
+IPM3H07B.XIFG   
+IPM3H07B.XPOF   
+IPM3H07B.XPOS   
+IPM3H07B.XRAW   
+IPM3H07B.XSOF   
+IPM3H07B.YIFG   
+IPM3H07B.YPOF   
+IPM3H07B.YPOS   
+IPM3H07B.YRAW   
+IPM3H07B.YSOF   
+IPM3H07C.XIFG   
+IPM3H07C.XPOF   
+IPM3H07C.XPOS   
+IPM3H07C.XRAW   
+IPM3H07C.XSOF   
+IPM3H07C.YIFG   
+IPM3H07C.YPOF   
+IPM3H07C.YPOS   
+IPM3H07C.YRAW   
+IPM3H07C.YSOF   
+end epics

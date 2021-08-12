@@ -1,0 +1,1 @@
+hpcentral_offset = 100*(0.0064-0.0087*hpcentral+0.0026*hpcentral*hpcentral-0.0003*hpcentral*hpcentral*hpcentral)
